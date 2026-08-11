@@ -1,0 +1,10 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 大文件
+downloads/
+
+# IDE 缓存（如果有用 VS Code 的话）
+.vscode/
+*.user
